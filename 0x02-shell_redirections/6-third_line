@@ -1,0 +1,3 @@
+
+#!/bin/bash
+pr -n -l 4 iacta
